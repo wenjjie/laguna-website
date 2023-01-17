@@ -398,7 +398,7 @@ h6 {
 
 .navbar-mobile .megamenu ul li a,
 .navbar-mobile .megamenu ul li:hover>a {
-  color: rgba(var(--color-white-rgb), 0.5);
+  color: rgba(var(--color-black-rgb), 0.5);
   background: none;
 }
 
